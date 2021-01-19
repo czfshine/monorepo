@@ -1,15 +1,19 @@
 {
   "name": "@czfshine/add",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a powerful add function for node.js and browser usage Typescript",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
+  "repository": "https://github.com/czfshine/add.git",
   "keywords": [],
   "author": "czfshine",
   "license": "MIT",
-  "files": ["*.js","*.ts"],
+  "files": [
+    "*.js",
+    "*.ts"
+  ],
   "jest": {
     "moduleFileExtensions": [
       "ts",
